@@ -136,36 +136,4 @@ Finally, to open the website in your browser you will have to write this path: h
 
 
 
-### **Member participation🙌🏻:**
 
-
-| Name        | Tasks |  |  |  |  |
-| :-------------: |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Sergio Martin Muñoz | Tarea 1 | Tarea 2 | Tarea 3 | Tarea 4 | Tarea 5 |
-| Alberto Pacho Bernardos | | | | | |
-| Javier Espín Prieto | | | | | |
-| Celia Sanjuan Sanchez | | | | | |
-
-
-
-| Name        | Commits |  |  |  |  |
-| :-------------: |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Sergio Martin Muñoz | Commit 1 | Commit 2 | Commit 3 | Commit 4 | Commit 5 |
-| Alberto Pacho Bernardos | | | | | |
-| Javier Espín Prieto | | | | | |
-| Celia Sanjuan Sanchez | | | | | |
-
-
-
-| Name        | Files |  |  |  |  |
-| :-------------: |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Sergio Martin Muñoz | Fichero 1 | Fichero 2 | Fichero 3 | Fichero 4 | Fichero 5 |
-| Alberto Pacho Bernardos | | | | | |
-| Javier Espín Prieto | | | | | |
-| Celia Sanjuan Sanchez | | | | | |
-
-
-
-## PHASE 3
-
-## PHASE 4
