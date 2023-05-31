@@ -20,7 +20,7 @@
    + [Instructions](#instructions)
    + [Database entities diagram](#database-entities-diagram)
    + [Templates and classes diagram](#templates-and-classes-diagram)
-   + [Member participation](#member-participation)
+   
 
 ## PHASE 0
 ### Development team🧑🏻‍💻🧑🏽‍💻🧑🏻‍💻👩🏽‍💻:
